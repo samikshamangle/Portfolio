@@ -1,3 +1,59 @@
+📌 Project Description:
+This portfolio website showcases my work, skills, and projects in a clean and modern layout. 
+Built using React.js and Tailwind CSS, it delivers a fast, responsive, and visually engaging user experience.
+The portfolio highlights my technical abilities, creativity, and passion for building high-quality web applications.
+
+# Project Title
+
+A brief and clear project description goes here. Explain what your project does and why it exists.
+
+## 🚀 Features
+- Responsive and modern UI
+- Built using React.js and Tailwind CSS
+- Interactive elements
+- Clean and optimized code
+
+## 🛠️ Tech Stack
+- React.js
+- Tailwind CSS
+
+## 📁 Project Structure
+/myproject  
+ ├── src 
+ ├── assets
+ ├── components
+ └── package.json
+
+## 📦 How to run
+1. Open terminal
+2. cd myproject and npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
